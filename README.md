@@ -1,0 +1,1 @@
+The purpose of this project is to show that we are able to create a repository and use commands to upload files and change files from our computer onto the repository using github commands like add, push, commit. 
